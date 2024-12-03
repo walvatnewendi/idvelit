@@ -1,0 +1,1 @@
+project.addSourceFilesAtPaths(`${uiComponentsDir}/**/*.ts`);
